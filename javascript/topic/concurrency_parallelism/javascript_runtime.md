@@ -1,6 +1,6 @@
 Each Browser is composed of Javascript Runtime Engine. Which is composed of four components.
-- Heap
-- Stack
+- Heap (Vairables etc
+- Stack (Actionable items such as functions etc)
 - Event Loop
 - Callback Queue
 
