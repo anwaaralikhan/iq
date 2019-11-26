@@ -120,7 +120,3 @@ Heap|Stack|WebAPI|Callback Queue
 .|callback()|.|.
 
 **NOTE** : `.` represent empty.
- 
-
-
-Content Cell  | Content Cell
